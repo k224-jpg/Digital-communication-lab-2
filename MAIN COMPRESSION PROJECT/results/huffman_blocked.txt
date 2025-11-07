@@ -1,0 +1,30 @@
+--- BLOCKED HUFFMAN (block size=3) ---
+Entropy per bit: 0.8639
+Average length per bit: 0.8902
+Compression efficiency: 97.04%
+Decoded correctly? True
+
+--- BLOCKED HUFFMAN (block size=3) ---
+Entropy per bit: 0.8639
+Average length per bit: 0.8902
+Compression efficiency: 97.04%
+Original bit length: 1002
+Encoded bitstream length: 892
+Decoded correctly? True
+
+--- BLOCKED HUFFMAN (block size=4) ---
+Entropy per bit: 0.8562
+Average length per bit: 0.8620
+Compression efficiency: 99.33%
+Original bit length: 1000
+Encoded bitstream length: 862
+Decoded correctly? True
+
+--- BLOCKED HUFFMAN (block size=2) ---
+Entropy per bit: 0.8636
+Average length per bit: 0.8750
+Compression efficiency: 98.70%
+Original bit length: 1000
+Encoded bitstream length: 875
+Decoded correctly? True
+

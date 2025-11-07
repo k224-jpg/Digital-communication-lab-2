@@ -1,0 +1,17 @@
+--- BLOCKED HUFFMAN (Graph Data, block size=2) ---
+Total bits: 45, Total blocks: 22
+
+Huffman codes (per block):
+  11: 00 (len=2)
+  10: 01 (len=2)
+  01: 10 (len=2)
+  00: 11 (len=2)
+
+Entropy per block: 1.9830 bits
+Entropy per bit:   0.9915 bits
+Average code length per block: 2.0000 bits
+Average code length per bit:   1.0000 bits
+Compression efficiency: 99.15%
+Encoded bitstream length: 44 bits
+Original bit length: 45 bits
+Decoded correctly? True

@@ -1,0 +1,15 @@
+--- HUFFMAN COMPRESSION (No Blocks) ---
+Sequence length: 1000
+Symbol 0: p=0.7120
+Symbol 1: p=0.2880
+
+Huffman Codes:
+  Symbol 1: 0 (len=1)
+  Symbol 0: 1 (len=1)
+
+Results:
+Entropy: 0.8661 bits per symbol
+Average code length: 1.0000 bits
+Compression efficiency: 86.61%
+Encoded bitstream length: 1000 bits
+Decoded matches original? True

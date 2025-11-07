@@ -1,0 +1,15 @@
+--- HUFFMAN CODING (Graph Data) ---
+Sequence length: 45
+Symbol 0: p=0.6889
+Symbol 1: p=0.3111
+
+Huffman Codes:
+  Symbol 1: 0 (len=1)
+  Symbol 0: 1 (len=1)
+
+Entropy: 0.8945 bits/symbol
+Average code length: 1.0000 bits/symbol
+Compression efficiency: 89.45%
+Encoded bitstream length: 45 bits
+Original bit length: 45 bits
+Decoded sequence equals original? True
