@@ -1,0 +1,4 @@
+--- Data Generation Summary ---
+Bernoulli sequence: length=1000, p=0.3
+Random graph: nodes=10, edge prob=0.3
+Adjacency bits count: 45
